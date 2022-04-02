@@ -1,0 +1,21 @@
+input{
+    border: solid 2px red;
+}
+label{
+    color: yellow;
+}
+form{
+    width: 100%;
+    background-color: transparent;
+    text-align: center;
+}
+body{
+    width: 100%;
+   background-image: url(imagen4.jpg);
+
+}
+input{
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 8px;
+}
