@@ -5,8 +5,9 @@ label{
     color: yellow;
 }
 form{
-    width: 100%;
+    width: 50%;
     background-color: transparent;
+    border: solid 2px black;
     text-align: center;
 }
 body{
